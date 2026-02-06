@@ -29,9 +29,15 @@ A modern, responsive **Productivity Dashboard** web app to manage your daily tas
 ## File Structure
 
 productivity-dashboard/
+
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # CSS for layout, dashboard, and dark mode
+
 ├── script.js # JavaScript for tasks, dashboard, and local storage
+
 ├── README.md # Project documentation
+
 └── screenshot.png # Optional: Screenshot of the app
